@@ -1,4 +1,5 @@
-##Sangraj | Full Stack Developer
+Full Stack Developer
+
 [![Sangraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=grudgesong)](https://github.com/grudgesong/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grudgesong&hide_progress=true)
 <h3 align="left">Connect with me:</h3>
