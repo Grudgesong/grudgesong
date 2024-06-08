@@ -1,7 +1,6 @@
-Sangraj | Full Stack Developer
+##Sangraj | Full Stack Developer
 [![Sangraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=grudgesong)](https://github.com/grudgesong/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grudgesong&hide_progress=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21wtqi2c3qzh5iuthzesahipy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
