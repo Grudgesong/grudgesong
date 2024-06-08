@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Sangraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=grudgesong)](https://github.com/grudgesong/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21wtqi2c3qzh5iuthzesahipy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
