@@ -2,6 +2,7 @@ Full Stack Developer
 
 [![Sangraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=grudgesong)](https://github.com/grudgesong/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grudgesong&hide_progress=true)
+![image](https://github.com/Grudgesong/grudgesong/assets/20378522/0d2a1d71-a479-467f-b5ec-79c01f9725e2)
 
 <!--
 **Grudgesong/grudgesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
